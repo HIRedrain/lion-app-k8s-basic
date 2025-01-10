@@ -1,4 +1,4 @@
-name: 1-app-k8s-basic
+name: 2-app-k8s-basic
 
 on:
   workflow_dispatch
